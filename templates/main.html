@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spell Book 5e</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/style.css') }}">
+    <!--<script scr="{{ url_for('static', filename='scripts/script.js) }}"></script>-->
+</head>
+<body>
+    <div id="tabs">
+        {% for i in range(0, 10) %}
+            <label class="level-tab" id="{{ 'level-' + i|string }}">{{ 'Level ' + i|string }}</label><br>
+        {% endfor %}
+    </div>
+
+
+    <!-- make 10 tables for the spells of each level-->
+    {% for key in spells %}
+        <table id = {{ key }}>
+            <thead>
+                <tr>
+                    <th>Level</th>
+                    <th>Name</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for data in spells[key] %}
+                    <tr>
+                        <td>{{ key }}</td>
+                        <td>{{ data['name'] }}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    {% endfor %}
+</body>
+</html>
