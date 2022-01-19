@@ -7,7 +7,7 @@
     <title>Spell Book 5e</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/style.css') }}">
-    <!--<script scr="{{ url_for('static', filename='scripts/script.js) }}"></script>-->
+    <script scr="{{ url_for('static', filename='scripts/script.js') }}"></script>
 </head>
 <body>
     <div id="tabs">
@@ -30,7 +30,7 @@
                 {% for data in spells[key] %}
                     <tr>
                         <td>{{ key }}</td>
-                        <td>{{ data['name'] }}</td>
+                        <td>{{ data["name"] }}</td>
                     </tr>
                 {% endfor %}
             </tbody>
