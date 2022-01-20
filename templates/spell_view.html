@@ -1,0 +1,34 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div id="spell-viewer">
+    <h3 id="name">{{ spell.name }}</h3>
+
+    <label for="">School</label><br>
+    <p>{{ spell.school }}</p>
+
+    <label for="desc">Description</label> <br>
+    <p id="desc">{{ spell.desc }}</p>
+
+    <label for="range">Range</label><br>
+    <p id="range">{{ spell.range }}</p>
+
+    <label for="components">Components</label><br>
+    <p id="components">{{ spell.components }}</p>
+
+    <label for="material">Material</label><br>
+    <p>{{ spell.material }}</p>
+
+    <label for="">Cast as Ritual?</label><br>
+    <p>{{ spell.ritual }}</p>
+
+    <label for="">Duration</label><br>
+    <p>{{ spell.duration }}</p>
+
+    <label for="">Concentration</label><br>
+    <p>{{ spell.concentration }}</p>
+
+    <label for="">Casting Time</label>
+    <p>{{ spell.casting_time }}</p>
+</div>
+{% endblock %}

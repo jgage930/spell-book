@@ -1,17 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Spell Book 5e</title>
+{% extends 'base.html' %}
 
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script src="{{ url_for('static', filename='script.js') }}"></script>
-    <link rel= "stylesheet" href= "{{ url_for('static', filename='style.css') }}">
-</head>
+{% block content %}
 <body>
-    <button id="test">Click me</button>
     <div class="tabs">
         <ul class="tabs-list">
             <li class="active"><a href='#tab1'>Cantrips</a></li>
@@ -187,6 +177,6 @@
         </table>
       </div>
     </div>
-    
+    <p>Powered by the DND 5th Edition API</p>
 </body>
-</html>
+{% endblock %}
