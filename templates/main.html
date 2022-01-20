@@ -5,36 +5,92 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Spell Book 5e</title>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/style.css') }}">
-    <script scr="{{ url_for('static', filename='scripts/script.js') }}"></script>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+    <link rel= "stylesheet" href= "{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
-    <div id="tabs">
-        {% for i in range(0, 10) %}
-            <label class="level-tab" id="{{ 'level-' + i|string }}">{{ 'Level ' + i|string }}</label><br>
-        {% endfor %}
-    </div>
+    <button id="test">Click me</button>
+    <div class="tabs">
+        <ul class="tabs-list">
+            <li class="active"><a href='#tab1'>Cantrips</a></li>
+            <li><a href='#tab2'>Level 1</a></li>
+            <li><a href='#tab3'>Level 2</a></li>
+            <li><a href='#tab4'>Level 3</a></li>
+            <li><a href='#tab5'>Level 4</a></li>
+            <li><a href='#tab6'>Level 5</a></li>
+            <li><a href='#tab7'>Level 6</a></li>
+            <li><a href='#tab8'>Level 7</a></li>
+            <li><a href='#tab9'>Level 8</a></li>
+            <li><a href='#tab10'>Level 9</a></li>
+        </ul>
+    
 
-
-    <!-- make 10 tables for the spells of each level-->
-    {% for key in spells %}
-        <table id = {{ key }}>
-            <thead>
-                <tr>
-                    <th>Level</th>
-                    <th>Name</th>
-                </tr>
-            </thead>
-            <tbody>
-                {% for data in spells[key] %}
-                    <tr>
-                        <td>{{ key }}</td>
-                        <td>{{ data["name"] }}</td>
-                    </tr>
-                {% endfor %}
-            </tbody>
+    <div id="tab1" class="tab active">
+        <h3>Cantrips</h3>
+        <table>
+          <tr>
+            <th>Name</th>
+            <th>Url</th>
+          </tr>
         </table>
-    {% endfor %}
+     </div>
+     <div id="tab2" class="tab">
+       <h3>Level 1</h3>
+       <p>
+         A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my
+       </p>
+     </div>
+     <div id="tab3" class="tab">
+       <h3>Level 2</h3>
+       <p>
+         The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz. Brick quiz whangs jumpy veldt fox. Bright vixens
+       </p>
+     </div>
+     <div id="tab4" class="tab">
+        <h3>Level 3</h3>
+        <p>
+          Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary
+        </p>
+     </div>
+     <div id="tab5" class="tab">
+       <h3>Level 4</h3>
+       <p>
+         A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my
+       </p>
+     </div>
+     <div id="tab6" class="tab">
+       <h3>Level 5</h3>
+       <p>
+         The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz. Brick quiz whangs jumpy veldt fox. Bright vixens
+       </p>
+     </div>
+     <div id="tab7" class="tab">
+        <h3>Level 6</h3>
+        <p>
+          Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary
+        </p>
+     </div>
+     <div id="tab8" class="tab">
+       <h3>Level 7</h3>
+       <p>
+         A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my
+       </p>
+     </div>
+     <div id="tab9" class="tab">
+       <h3>Level 8</h3>
+       <p>
+         The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz. Brick quiz whangs jumpy veldt fox. Bright vixens
+       </p>
+     </div>
+     <div id="tab10" class="tab">
+        <h3>Level 9</h3>
+        <p>
+          The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz. Brick quiz whangs jumpy veldt fox. Bright vixens
+        </p>
+      </div>
+    </div>
+    
 </body>
 </html>
