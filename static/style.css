@@ -1,3 +1,20 @@
+
+hr {
+  background-color: rgba(223, 49, 5, 0.753);
+}
+
+#spell-viewer {
+  background-color: bisque;
+}
+
+label {
+  width: 80%;
+  height: auto;
+  margin: 0 auto;
+  text-align: center;
+  font-weight: bold;
+}
+
 .tabs{
   width:80%;
   height:auto;
@@ -17,7 +34,7 @@
   margin-right:2px;
   padding:10px 5px;
   text-align: center;
-  background-color:cornflowerblue;
+  background-color: rgba(223, 49, 5, 0.753);
   border-radius:3px;
 }
 .tabs .tabs-list li:hover{
@@ -36,7 +53,7 @@
   height:auto;
   border-radius:3px;
   padding:20px 15px;
-  background-color:lavender;
+  background-color:bisque;
   color:darkslategray;
   clear:both;
 }
@@ -56,7 +73,7 @@
   display:block !important;
 }
 .tabs .tabs-list li.active{
-  background-color:lavender !important;
+  background-color:bisque !important;
   color:black !important;
 }
 .active a{

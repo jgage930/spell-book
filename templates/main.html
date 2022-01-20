@@ -20,14 +20,9 @@
     <div id="tab1" class="tab active">
         <h3>Cantrips</h3>
         <table>
-          <tr>
-            <th>Name</th>
-            <th>Url</th>
-          </tr>
           {% for data in spells['0'] %}
           <tr>
-            <td>{{ data['name'] }}</td>
-            <td>{{ data['url'] }}</td>
+            <td><a href="{{ url_for('spell_view', spell_name=data['index']) }}">{{ data['name'] }}</a></td>
           </tr>
           {% endfor %}
         </table>
@@ -36,14 +31,9 @@
      <div id="tab2" class="tab">
        <h3>Level 1</h3>
        <table>
-        <tr>
-          <th>Name</th>
-          <th>Url</th>
-        </tr>
         {% for data in spells['1'] %}
         <tr>
-          <td>{{ data['name'] }}</td>
-          <td>{{ data['url'] }}</td>
+          <td><a href="{{ url_for('spell_view', spell_name=data['index']) }}">{{ data['name'] }}</a></td>
         </tr>
         {% endfor %}
       </table>
@@ -52,14 +42,10 @@
      <div id="tab3" class="tab">
        <h3>Level 2</h3>
        <table>
-        <tr>
-          <th>Name</th>
-          <th>Url</th>
-        </tr>
         {% for data in spells['2'] %}
         <tr>
-          <td>{{ data['name'] }}</td>
-          <td>{{ data['url'] }}</td>
+          <td><a href="{{ url_for('spell_view', spell_name=data['index']) }}">{{ data['name'] }}</a></td>
+         
         </tr>
         {% endfor %}
       </table>
@@ -68,14 +54,11 @@
      <div id="tab4" class="tab">
         <h3>Level 3</h3>
         <table>
-          <tr>
-            <th>Name</th>
-            <th>Url</th>
-          </tr>
+          
           {% for data in spells['3'] %}
           <tr>
-            <td>{{ data['name'] }}</td>
-            <td>{{ data['url'] }}</td>
+            <td><a href="{{ url_for('spell_view', spell_name=data['index']) }}">{{ data['name'] }}</a>/td>
+            
           </tr>
           {% endfor %}
         </table>
@@ -84,14 +67,11 @@
      <div id="tab5" class="tab">
        <h3>Level 4</h3>
        <table>
-        <tr>
-          <th>Name</th>
-          <th>Url</th>
-        </tr>
+        
         {% for data in spells['4'] %}
         <tr>
-          <td>{{ data['name'] }}</td>
-          <td>{{ data['url'] }}</td>
+          <td><a href="{{ url_for('spell_view', spell_name=data['index']) }}">{{ data['name'] }}</a></td>
+        
         </tr>
         {% endfor %}
       </table>
@@ -100,14 +80,11 @@
      <div id="tab6" class="tab">
        <h3>Level 5</h3>
        <table>
-        <tr>
-          <th>Name</th>
-          <th>Url</th>
-        </tr>
+        
         {% for data in spells['5'] %}
         <tr>
-          <td>{{ data['name'] }}</td>
-          <td>{{ data['url'] }}</td>
+          <td><a href="{{ url_for('spell_view', spell_name=data['index']) }}">{{ data['name'] }}</a></td>
+          
         </tr>
         {% endfor %}
       </table>
@@ -116,14 +93,11 @@
      <div id="tab7" class="tab">
         <h3>Level 6</h3>
         <table>
-          <tr>
-            <th>Name</th>
-            <th>Url</th>
-          </tr>
+          
           {% for data in spells['6'] %}
           <tr>
-            <td>{{ data['name'] }}</td>
-            <td>{{ data['url'] }}</td>
+            <td><a href="{{ url_for('spell_view', spell_name=data['index']) }}">{{ data['name'] }}</a></td>
+            
           </tr>
           {% endfor %}
         </table>
@@ -132,14 +106,11 @@
      <div id="tab8" class="tab">
        <h3>Level 7</h3>
        <table>
-        <tr>
-          <th>Name</th>
-          <th>Url</th>
-        </tr>
+        
         {% for data in spells['7'] %}
         <tr>
-          <td>{{ data['name'] }}</td>
-          <td>{{ data['url'] }}</td>
+          <td><a href="{{ url_for('spell_view', spell_name=data['index']) }}">{{ data['name'] }}</a></td>
+          
         </tr>
         {% endfor %}
       </table>
@@ -148,14 +119,11 @@
      <div id="tab9" class="tab">
        <h3>Level 8</h3>
        <table>
-        <tr>
-          <th>Name</th>
-          <th>Url</th>
-        </tr>
+        
         {% for data in spells['8'] %}
         <tr>
-          <td>{{ data['name'] }}</td>
-          <td>{{ data['url'] }}</td>
+          <td><a href="{{ url_for('spell_view', spell_name=data['index']) }}">{{ data['name'] }}</a></td>
+          
         </tr>
         {% endfor %}
       </table>
@@ -164,14 +132,11 @@
      <div id="tab10" class="tab">
         <h3>Level 9</h3>
         <table>
-          <tr>
-            <th>Name</th>
-            <th>Url</th>
-          </tr>
+          
           {% for data in spells['9'] %}
           <tr>
-            <td>{{ data['name'] }}</td>
-            <td>{{ data['url'] }}</td>
+            <td><a href="{{ url_for('spell_view', spell_name=data['index']) }}">{{ data['name'] }}</a></td>
+            
           </tr>
           {% endfor %}
         </table>

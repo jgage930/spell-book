@@ -15,3 +15,4 @@ class Spell:
     casting_time: str
     level: str
     school: str
+    index: str

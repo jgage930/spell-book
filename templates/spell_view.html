@@ -1,33 +1,34 @@
 {% extends 'base.html' %}
 
 {% block content %}
-<div id="spell-viewer">
-    <h3 id="name">{{ spell.name }}</h3>
+<div class="grid-container" id="spell-viewer">
+    <h3 class="grid-item" id="name">{{ spell.name }}</h3>
+    <hr>
+    <label class="grid-item" for="">School</label>
+    <p class="grid-item">{{ spell.school }}</p>
+    <hr>
 
-    <label for="">School</label><br>
-    <p>{{ spell.school }}</p>
-
-    <label for="desc">Description</label> <br>
-    <p id="desc">{{ spell.desc }}</p>
-
-    <label for="range">Range</label><br>
-    <p id="range">{{ spell.range }}</p>
-
-    <label for="components">Components</label><br>
-    <p id="components">{{ spell.components }}</p>
-
-    <label for="material">Material</label><br>
-    <p>{{ spell.material }}</p>
-
-    <label for="">Cast as Ritual?</label><br>
-    <p>{{ spell.ritual }}</p>
-
-    <label for="">Duration</label><br>
+    <label class="grid-item" for="desc">Description</label> 
+    <p class="grid-item" id="desc">{{ spell.desc }}</p>
+    <hr>
+    <label class="grid-item" for="range">Range</label>
+    <p class="grid-item" id="range">{{ spell.range }}</p>
+    <hr>
+    <label class="grid-item" for="components">Components</label>
+    <p class="grid-item" id="components">{{ spell.components }}</p>
+    <hr>
+    <label class="grid-item" for="material">Material</label>
+    <p class="grid-item">{{ spell.material }}</p>
+    <hr>
+    <label class="grid-item" for="">Cast as Ritual?</label>
+    <p class="grid-item">{{ spell.ritual }}</p>
+    <hr>
+    <label for="">Duration</label>
     <p>{{ spell.duration }}</p>
-
-    <label for="">Concentration</label><br>
+    <hr>
+    <label for="">Concentration</label>
     <p>{{ spell.concentration }}</p>
-
+    <hr>
     <label for="">Casting Time</label>
     <p>{{ spell.casting_time }}</p>
 </div>

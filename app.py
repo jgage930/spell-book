@@ -34,9 +34,9 @@ def spell_view(spell_name):
     if spell_name in spell_data:
         # current spell
         my_data = spell_data[spell_name]
-        
+        index = my_data['index']
         # get data to put into Spell object
-        name = spell_name
+        name = my_data['name']
         desc = ' '.join([str(elem) for elem in my_data['desc']])
         range = my_data['range']
         components = ' '.join([str(elem) for elem in my_data['components']])
@@ -62,7 +62,7 @@ def spell_view(spell_name):
         level = my_data['level']
         school = my_data['school']['name']
 
-        spell = Spell(name, desc, range, components, material, ritual, duration, concentration, casting_time, level, school)
+        spell = Spell(name, desc, range, components, material, ritual, duration, concentration, casting_time, level, school, index)
         return render_template('spell_view.html', spell=spell)
     return render_template('error.html')            
 

@@ -1,5 +1,5 @@
 {
-    "Acid Splash": {
+    "acid-splash": {
         "index": "acid-splash",
         "name": "Acid Splash",
         "desc": [
@@ -63,7 +63,7 @@
         ],
         "url": "/api/spells/acid-splash"
     },
-    "Chill Touch": {
+    "chill-touch": {
         "index": "chill-touch",
         "name": "Chill Touch",
         "desc": [
@@ -126,7 +126,7 @@
         ],
         "url": "/api/spells/chill-touch"
     },
-    "Dancing Lights": {
+    "dancing-lights": {
         "index": "dancing-lights",
         "name": "Dancing Lights",
         "desc": [
@@ -176,7 +176,7 @@
         ],
         "url": "/api/spells/dancing-lights"
     },
-    "Druidcraft": {
+    "druidcraft": {
         "index": "druidcraft",
         "name": "Druidcraft",
         "desc": [
@@ -211,7 +211,7 @@
         "subclasses": [],
         "url": "/api/spells/druidcraft"
     },
-    "Eldritch Blast": {
+    "eldritch-blast": {
         "index": "eldritch-blast",
         "name": "Eldritch Blast",
         "desc": [
@@ -262,7 +262,7 @@
         ],
         "url": "/api/spells/eldritch-blast"
     },
-    "Fire Bolt": {
+    "fire-bolt": {
         "index": "fire-bolt",
         "name": "Fire Bolt",
         "desc": [
@@ -313,7 +313,7 @@
         "subclasses": [],
         "url": "/api/spells/fire-bolt"
     },
-    "Guidance": {
+    "guidance": {
         "index": "guidance",
         "name": "Guidance",
         "desc": [
@@ -355,7 +355,7 @@
         ],
         "url": "/api/spells/guidance"
     },
-    "Light": {
+    "light": {
         "index": "light",
         "name": "Light",
         "desc": [
@@ -417,7 +417,7 @@
         ],
         "url": "/api/spells/light"
     },
-    "Mage Hand": {
+    "mage-hand": {
         "index": "mage-hand",
         "name": "Mage Hand",
         "desc": [
@@ -471,7 +471,7 @@
         ],
         "url": "/api/spells/mage-hand"
     },
-    "Mending": {
+    "mending": {
         "index": "mending",
         "name": "Mending",
         "desc": [
@@ -531,7 +531,7 @@
         ],
         "url": "/api/spells/mending"
     },
-    "Message": {
+    "message": {
         "index": "message",
         "name": "Message",
         "desc": [
@@ -581,7 +581,7 @@
         ],
         "url": "/api/spells/message"
     },
-    "Minor Illusion": {
+    "minor-illusion": {
         "index": "minor-illusion",
         "name": "Minor Illusion",
         "desc": [
@@ -637,7 +637,7 @@
         ],
         "url": "/api/spells/minor-illusion"
     },
-    "Poison Spray": {
+    "poison-spray": {
         "index": "poison-spray",
         "name": "Poison Spray",
         "desc": [
@@ -701,7 +701,7 @@
         "subclasses": [],
         "url": "/api/spells/poison-spray"
     },
-    "Prestidigitation": {
+    "prestidigitation": {
         "index": "prestidigitation",
         "name": "Prestidigitation",
         "desc": [
@@ -760,7 +760,7 @@
         ],
         "url": "/api/spells/prestidigitation"
     },
-    "Produce Flame": {
+    "produce-flame": {
         "index": "produce-flame",
         "name": "Produce Flame",
         "desc": [
@@ -813,7 +813,7 @@
         ],
         "url": "/api/spells/produce-flame"
     },
-    "Ray of Frost": {
+    "ray-of-frost": {
         "index": "ray-of-frost",
         "name": "Ray of Frost",
         "desc": [
@@ -870,7 +870,7 @@
         ],
         "url": "/api/spells/ray-of-frost"
     },
-    "Resistance": {
+    "resistance": {
         "index": "resistance",
         "name": "Resistance",
         "desc": [
@@ -914,7 +914,7 @@
         ],
         "url": "/api/spells/resistance"
     },
-    "Sacred Flame": {
+    "sacred-flame": {
         "index": "sacred-flame",
         "name": "Sacred Flame",
         "desc": [
@@ -974,7 +974,7 @@
         ],
         "url": "/api/spells/sacred-flame"
     },
-    "Shillelagh": {
+    "shillelagh": {
         "index": "shillelagh",
         "name": "Shillelagh",
         "desc": [
@@ -1013,7 +1013,7 @@
         ],
         "url": "/api/spells/shillelagh"
     },
-    "Shocking Grasp": {
+    "shocking-grasp": {
         "index": "shocking-grasp",
         "name": "Shocking Grasp",
         "desc": [
@@ -1070,7 +1070,7 @@
         ],
         "url": "/api/spells/shocking-grasp"
     },
-    "Spare the Dying": {
+    "spare-the-dying": {
         "index": "spare-the-dying",
         "name": "Spare the Dying",
         "desc": [
@@ -1101,7 +1101,7 @@
         "subclasses": [],
         "url": "/api/spells/spare-the-dying"
     },
-    "Thaumaturgy": {
+    "thaumaturgy": {
         "index": "thaumaturgy",
         "name": "Thaumaturgy",
         "desc": [
@@ -1144,7 +1144,7 @@
         ],
         "url": "/api/spells/thaumaturgy"
     },
-    "True Strike": {
+    "true-strike": {
         "index": "true-strike",
         "name": "True Strike",
         "desc": [
@@ -1195,7 +1195,7 @@
         ],
         "url": "/api/spells/true-strike"
     },
-    "Vicious Mockery": {
+    "vicious-mockery": {
         "index": "vicious-mockery",
         "name": "Vicious Mockery",
         "desc": [
@@ -1247,7 +1247,7 @@
         "subclasses": [],
         "url": "/api/spells/vicious-mockery"
     },
-    "Alarm": {
+    "alarm": {
         "index": "alarm",
         "name": "Alarm",
         "desc": [
@@ -1297,7 +1297,7 @@
         ],
         "url": "/api/spells/alarm"
     },
-    "Animal Friendship": {
+    "animal-friendship": {
         "index": "animal-friendship",
         "name": "Animal Friendship",
         "desc": [
@@ -1353,7 +1353,7 @@
         "subclasses": [],
         "url": "/api/spells/animal-friendship"
     },
-    "Bane": {
+    "bane": {
         "index": "bane",
         "name": "Bane",
         "desc": [
@@ -1408,7 +1408,7 @@
         ],
         "url": "/api/spells/bane"
     },
-    "Bless": {
+    "bless": {
         "index": "bless",
         "name": "Bless",
         "desc": [
@@ -1460,7 +1460,7 @@
         ],
         "url": "/api/spells/bless"
     },
-    "Burning Hands": {
+    "burning-hands": {
         "index": "burning-hands",
         "name": "Burning Hands",
         "desc": [
@@ -1541,7 +1541,7 @@
         ],
         "url": "/api/spells/burning-hands"
     },
-    "Charm Person": {
+    "charm-person": {
         "index": "charm-person",
         "name": "Charm Person",
         "desc": [
@@ -1609,7 +1609,7 @@
         ],
         "url": "/api/spells/charm-person"
     },
-    "Color Spray": {
+    "color-spray": {
         "index": "color-spray",
         "name": "Color Spray",
         "desc": [
@@ -1661,7 +1661,7 @@
         ],
         "url": "/api/spells/color-spray"
     },
-    "Command": {
+    "command": {
         "index": "command",
         "name": "Command",
         "desc": [
@@ -1724,7 +1724,7 @@
         ],
         "url": "/api/spells/command"
     },
-    "Comprehend Languages": {
+    "comprehend-languages": {
         "index": "comprehend-languages",
         "name": "Comprehend Languages",
         "desc": [
@@ -1779,7 +1779,7 @@
         ],
         "url": "/api/spells/comprehend-languages"
     },
-    "Create or Destroy Water": {
+    "create-or-destroy-water": {
         "index": "create-or-destroy-water",
         "name": "Create or Destroy Water",
         "desc": [
@@ -1832,7 +1832,7 @@
         ],
         "url": "/api/spells/create-or-destroy-water"
     },
-    "Cure Wounds": {
+    "cure-wounds": {
         "index": "cure-wounds",
         "name": "Cure Wounds",
         "desc": [
@@ -1908,7 +1908,7 @@
         ],
         "url": "/api/spells/cure-wounds"
     },
-    "Detect Evil and Good": {
+    "detect-evil-and-good": {
         "index": "detect-evil-and-good",
         "name": "Detect Evil and Good",
         "desc": [
@@ -1955,7 +1955,7 @@
         ],
         "url": "/api/spells/detect-evil-and-good"
     },
-    "Detect Magic": {
+    "detect-magic": {
         "index": "detect-magic",
         "name": "Detect Magic",
         "desc": [
@@ -2027,7 +2027,7 @@
         ],
         "url": "/api/spells/detect-magic"
     },
-    "Detect Poison and Disease": {
+    "detect-poison-and-disease": {
         "index": "detect-poison-and-disease",
         "name": "Detect Poison and Disease",
         "desc": [
@@ -2086,7 +2086,7 @@
         ],
         "url": "/api/spells/detect-poison-and-disease"
     },
-    "Disguise Self": {
+    "disguise-self": {
         "index": "disguise-self",
         "name": "Disguise Self",
         "desc": [
@@ -2135,7 +2135,7 @@
         ],
         "url": "/api/spells/disguise-self"
     },
-    "Divine Favor": {
+    "divine-favor": {
         "index": "divine-favor",
         "name": "Divine Favor",
         "desc": [
@@ -2182,7 +2182,7 @@
         ],
         "url": "/api/spells/divine-favor"
     },
-    "Entangle": {
+    "entangle": {
         "index": "entangle",
         "name": "Entangle",
         "desc": [
@@ -2233,7 +2233,7 @@
         ],
         "url": "/api/spells/entangle"
     },
-    "Expeditious Retreat": {
+    "expeditious-retreat": {
         "index": "expeditious-retreat",
         "name": "Expeditious Retreat",
         "desc": [
@@ -2280,7 +2280,7 @@
         ],
         "url": "/api/spells/expeditious-retreat"
     },
-    "Faerie Fire": {
+    "faerie-fire": {
         "index": "faerie-fire",
         "name": "Faerie Fire",
         "desc": [
@@ -2329,7 +2329,7 @@
         ],
         "url": "/api/spells/faerie-fire"
     },
-    "False Life": {
+    "false-life": {
         "index": "false-life",
         "name": "False Life",
         "desc": [
@@ -2387,7 +2387,7 @@
         ],
         "url": "/api/spells/false-life"
     },
-    "Feather Fall": {
+    "feather-fall": {
         "index": "feather-fall",
         "name": "Feather Fall",
         "desc": [
@@ -2435,7 +2435,7 @@
         ],
         "url": "/api/spells/feather-fall"
     },
-    "Find Familiar": {
+    "find-familiar": {
         "index": "find-familiar",
         "name": "Find Familiar",
         "desc": [
@@ -2474,7 +2474,7 @@
         "subclasses": [],
         "url": "/api/spells/find-familiar"
     },
-    "Floating Disk": {
+    "floating-disk": {
         "index": "floating-disk",
         "name": "Floating Disk",
         "desc": [
@@ -2515,7 +2515,7 @@
         ],
         "url": "/api/spells/floating-disk"
     },
-    "Fog Cloud": {
+    "fog-cloud": {
         "index": "fog-cloud",
         "name": "Fog Cloud",
         "desc": [
@@ -2574,7 +2574,7 @@
         ],
         "url": "/api/spells/fog-cloud"
     },
-    "Goodberry": {
+    "goodberry": {
         "index": "goodberry",
         "name": "Goodberry",
         "desc": [
@@ -2613,7 +2613,7 @@
         "subclasses": [],
         "url": "/api/spells/goodberry"
     },
-    "Grease": {
+    "grease": {
         "index": "grease",
         "name": "Grease",
         "desc": [
@@ -2665,7 +2665,7 @@
         ],
         "url": "/api/spells/grease"
     },
-    "Guiding Bolt": {
+    "guiding-bolt": {
         "index": "guiding-bolt",
         "name": "Guiding Bolt",
         "desc": [
@@ -2724,7 +2724,7 @@
         ],
         "url": "/api/spells/guiding-bolt"
     },
-    "Healing Word": {
+    "healing-word": {
         "index": "healing-word",
         "name": "Healing Word",
         "desc": [
@@ -2784,7 +2784,7 @@
         ],
         "url": "/api/spells/healing-word"
     },
-    "Hellish Rebuke": {
+    "hellish-rebuke": {
         "index": "hellish-rebuke",
         "name": "Hellish Rebuke",
         "desc": [
@@ -2833,7 +2833,7 @@
         "subclasses": [],
         "url": "/api/spells/hellish-rebuke"
     },
-    "Heroism": {
+    "heroism": {
         "index": "heroism",
         "name": "Heroism",
         "desc": [
@@ -2875,7 +2875,7 @@
         ],
         "url": "/api/spells/heroism"
     },
-    "Hideous Laughter": {
+    "hideous-laughter": {
         "index": "hideous-laughter",
         "name": "Hideous Laughter",
         "desc": [
@@ -2928,7 +2928,7 @@
         ],
         "url": "/api/spells/hideous-laughter"
     },
-    "Hunter's Mark": {
+    "hunters-mark": {
         "index": "hunters-mark",
         "name": "Hunter's Mark",
         "desc": [
@@ -2966,7 +2966,7 @@
         "subclasses": [],
         "url": "/api/spells/hunters-mark"
     },
-    "Identify": {
+    "identify": {
         "index": "identify",
         "name": "Identify",
         "desc": [
@@ -3011,7 +3011,7 @@
         ],
         "url": "/api/spells/identify"
     },
-    "Illusory Script": {
+    "illusory-script": {
         "index": "illusory-script",
         "name": "Illusory Script",
         "desc": [
@@ -3062,7 +3062,7 @@
         ],
         "url": "/api/spells/illusory-script"
     },
-    "Inflict Wounds": {
+    "inflict-wounds": {
         "index": "inflict-wounds",
         "name": "Inflict Wounds",
         "desc": [
@@ -3121,7 +3121,7 @@
         ],
         "url": "/api/spells/inflict-wounds"
     },
-    "Jump": {
+    "jump": {
         "index": "jump",
         "name": "Jump",
         "desc": [
@@ -3175,7 +3175,7 @@
         ],
         "url": "/api/spells/jump"
     },
-    "Longstrider": {
+    "longstrider": {
         "index": "longstrider",
         "name": "Longstrider",
         "desc": [
@@ -3232,7 +3232,7 @@
         ],
         "url": "/api/spells/longstrider"
     },
-    "Mage Armor": {
+    "mage-armor": {
         "index": "mage-armor",
         "name": "Mage Armor",
         "desc": [
@@ -3276,7 +3276,7 @@
         ],
         "url": "/api/spells/mage-armor"
     },
-    "Magic Missile": {
+    "magic-missile": {
         "index": "magic-missile",
         "name": "Magic Missile",
         "desc": [
@@ -3339,7 +3339,7 @@
         ],
         "url": "/api/spells/magic-missile"
     },
-    "Protection from Evil and Good": {
+    "protection-from-evil-and-good": {
         "index": "protection-from-evil-and-good",
         "name": "Protection from Evil and Good",
         "desc": [
@@ -3399,7 +3399,7 @@
         ],
         "url": "/api/spells/protection-from-evil-and-good"
     },
-    "Purify Food and Drink": {
+    "purify-food-and-drink": {
         "index": "purify-food-and-drink",
         "name": "Purify Food and Drink",
         "desc": [
@@ -3446,7 +3446,7 @@
         ],
         "url": "/api/spells/purify-food-and-drink"
     },
-    "Sanctuary": {
+    "sanctuary": {
         "index": "sanctuary",
         "name": "Sanctuary",
         "desc": [
@@ -3491,7 +3491,7 @@
         ],
         "url": "/api/spells/sanctuary"
     },
-    "Shield": {
+    "shield": {
         "index": "shield",
         "name": "Shield",
         "desc": [
@@ -3533,7 +3533,7 @@
         ],
         "url": "/api/spells/shield"
     },
-    "Shield of Faith": {
+    "shield-of-faith": {
         "index": "shield-of-faith",
         "name": "Shield of Faith",
         "desc": [
@@ -3577,7 +3577,7 @@
         ],
         "url": "/api/spells/shield-of-faith"
     },
-    "Silent Image": {
+    "silent-image": {
         "index": "silent-image",
         "name": "Silent Image",
         "desc": [
@@ -3632,7 +3632,7 @@
         ],
         "url": "/api/spells/silent-image"
     },
-    "Sleep": {
+    "sleep": {
         "index": "sleep",
         "name": "Sleep",
         "desc": [
@@ -3695,7 +3695,7 @@
         ],
         "url": "/api/spells/sleep"
     },
-    "Speak with Animals": {
+    "speak-with-animals": {
         "index": "speak-with-animals",
         "name": "Speak with Animals",
         "desc": [
@@ -3742,7 +3742,7 @@
         ],
         "url": "/api/spells/speak-with-animals"
     },
-    "Thunderwave": {
+    "thunderwave": {
         "index": "thunderwave",
         "name": "Thunderwave",
         "desc": [
@@ -3828,7 +3828,7 @@
         ],
         "url": "/api/spells/thunderwave"
     },
-    "Unseen Servant": {
+    "unseen-servant": {
         "index": "unseen-servant",
         "name": "Unseen Servant",
         "desc": [
@@ -3879,7 +3879,7 @@
         ],
         "url": "/api/spells/unseen-servant"
     },
-    "Acid Arrow": {
+    "acid-arrow": {
         "index": "acid-arrow",
         "name": "Acid Arrow",
         "desc": [
@@ -3944,7 +3944,7 @@
         ],
         "url": "/api/spells/acid-arrow"
     },
-    "Aid": {
+    "aid": {
         "index": "aid",
         "name": "Aid",
         "desc": [
@@ -4001,7 +4001,7 @@
         ],
         "url": "/api/spells/aid"
     },
-    "Alter Self": {
+    "alter-self": {
         "index": "alter-self",
         "name": "Alter Self",
         "desc": [
@@ -4046,7 +4046,7 @@
         ],
         "url": "/api/spells/alter-self"
     },
-    "Animal Messenger": {
+    "animal-messenger": {
         "index": "animal-messenger",
         "name": "Animal Messenger",
         "desc": [
@@ -4099,7 +4099,7 @@
         ],
         "url": "/api/spells/animal-messenger"
     },
-    "Arcane Lock": {
+    "arcane-lock": {
         "index": "arcane-lock",
         "name": "Arcane Lock",
         "desc": [
@@ -4139,7 +4139,7 @@
         ],
         "url": "/api/spells/arcane-lock"
     },
-    "Arcanist's Magic Aura": {
+    "arcanists-magic-aura": {
         "index": "arcanists-magic-aura",
         "name": "Arcanist's Magic Aura",
         "desc": [
@@ -4181,7 +4181,7 @@
         ],
         "url": "/api/spells/arcanists-magic-aura"
     },
-    "Augury": {
+    "augury": {
         "index": "augury",
         "name": "Augury",
         "desc": [
@@ -4226,7 +4226,7 @@
         ],
         "url": "/api/spells/augury"
     },
-    "Barkskin": {
+    "barkskin": {
         "index": "barkskin",
         "name": "Barkskin",
         "desc": [
@@ -4275,7 +4275,7 @@
         ],
         "url": "/api/spells/barkskin"
     },
-    "Blindness/Deafness": {
+    "blindness-deafness": {
         "index": "blindness-deafness",
         "name": "Blindness/Deafness",
         "desc": [
@@ -4342,7 +4342,7 @@
         ],
         "url": "/api/spells/blindness-deafness"
     },
-    "Blur": {
+    "blur": {
         "index": "blur",
         "name": "Blur",
         "desc": [
@@ -4388,7 +4388,7 @@
         ],
         "url": "/api/spells/blur"
     },
-    "Branding Smite": {
+    "branding-smite": {
         "index": "branding-smite",
         "name": "Branding Smite",
         "desc": [
@@ -4438,7 +4438,7 @@
         "subclasses": [],
         "url": "/api/spells/branding-smite"
     },
-    "Calm Emotions": {
+    "calm-emotions": {
         "index": "calm-emotions",
         "name": "Calm Emotions",
         "desc": [
@@ -4493,7 +4493,7 @@
         ],
         "url": "/api/spells/calm-emotions"
     },
-    "Continual Flame": {
+    "continual-flame": {
         "index": "continual-flame",
         "name": "Continual Flame",
         "desc": [
@@ -4537,7 +4537,7 @@
         ],
         "url": "/api/spells/continual-flame"
     },
-    "Darkness": {
+    "darkness": {
         "index": "darkness",
         "name": "Darkness",
         "desc": [
@@ -4596,7 +4596,7 @@
         ],
         "url": "/api/spells/darkness"
     },
-    "Darkvision": {
+    "darkvision": {
         "index": "darkvision",
         "name": "Darkvision",
         "desc": [
@@ -4650,7 +4650,7 @@
         ],
         "url": "/api/spells/darkvision"
     },
-    "Detect Thoughts": {
+    "detect-thoughts": {
         "index": "detect-thoughts",
         "name": "Detect Thoughts",
         "desc": [
@@ -4703,7 +4703,7 @@
         ],
         "url": "/api/spells/detect-thoughts"
     },
-    "Enhance Ability": {
+    "enhance-ability": {
         "index": "enhance-ability",
         "name": "Enhance Ability",
         "desc": [
@@ -4766,7 +4766,7 @@
         ],
         "url": "/api/spells/enhance-ability"
     },
-    "Enlarge/Reduce": {
+    "enlarge-reduce": {
         "index": "enlarge-reduce",
         "name": "Enlarge/Reduce",
         "desc": [
@@ -4821,7 +4821,7 @@
         ],
         "url": "/api/spells/enlarge-reduce"
     },
-    "Enthrall": {
+    "enthrall": {
         "index": "enthrall",
         "name": "Enthrall",
         "desc": [
@@ -4871,7 +4871,7 @@
         ],
         "url": "/api/spells/enthrall"
     },
-    "Find Steed": {
+    "find-steed": {
         "index": "find-steed",
         "name": "Find Steed",
         "desc": [
@@ -4912,7 +4912,7 @@
         ],
         "url": "/api/spells/find-steed"
     },
-    "Find Traps": {
+    "find-traps": {
         "index": "find-traps",
         "name": "Find Traps",
         "desc": [
@@ -4960,7 +4960,7 @@
         ],
         "url": "/api/spells/find-traps"
     },
-    "Flame Blade": {
+    "flame-blade": {
         "index": "flame-blade",
         "name": "Flame Blade",
         "desc": [
@@ -5017,7 +5017,7 @@
         ],
         "url": "/api/spells/flame-blade"
     },
-    "Flaming Sphere": {
+    "flaming-sphere": {
         "index": "flaming-sphere",
         "name": "Flaming Sphere",
         "desc": [
@@ -5083,7 +5083,7 @@
         ],
         "url": "/api/spells/flaming-sphere"
     },
-    "Gentle Repose": {
+    "gentle-repose": {
         "index": "gentle-repose",
         "name": "Gentle Repose",
         "desc": [
@@ -5128,7 +5128,7 @@
         ],
         "url": "/api/spells/gentle-repose"
     },
-    "Gust of Wind": {
+    "gust-of-wind": {
         "index": "gust-of-wind",
         "name": "Gust of Wind",
         "desc": [
@@ -5192,7 +5192,7 @@
         ],
         "url": "/api/spells/gust-of-wind"
     },
-    "Heat Metal": {
+    "heat-metal": {
         "index": "heat-metal",
         "name": "Heat Metal",
         "desc": [
@@ -5266,7 +5266,7 @@
         ],
         "url": "/api/spells/heat-metal"
     },
-    "Hold Person": {
+    "hold-person": {
         "index": "hold-person",
         "name": "Hold Person",
         "desc": [
@@ -5346,7 +5346,7 @@
         ],
         "url": "/api/spells/hold-person"
     },
-    "Invisibility": {
+    "invisibility": {
         "index": "invisibility",
         "name": "Invisibility",
         "desc": [
@@ -5408,7 +5408,7 @@
         ],
         "url": "/api/spells/invisibility"
     },
-    "Knock": {
+    "knock": {
         "index": "knock",
         "name": "Knock",
         "desc": [
@@ -5457,7 +5457,7 @@
         ],
         "url": "/api/spells/knock"
     },
-    "Lesser Restoration": {
+    "lesser-restoration": {
         "index": "lesser-restoration",
         "name": "Lesser Restoration",
         "desc": [
@@ -5524,7 +5524,7 @@
         ],
         "url": "/api/spells/lesser-restoration"
     },
-    "Levitate": {
+    "levitate": {
         "index": "levitate",
         "name": "Levitate",
         "desc": [
@@ -5570,7 +5570,7 @@
         ],
         "url": "/api/spells/levitate"
     },
-    "Locate Animals or Plants": {
+    "locate-animals-or-plants": {
         "index": "locate-animals-or-plants",
         "name": "Locate Animals or Plants",
         "desc": [
@@ -5619,7 +5619,7 @@
         ],
         "url": "/api/spells/locate-animals-or-plants"
     },
-    "Locate Object": {
+    "locate-object": {
         "index": "locate-object",
         "name": "Locate Object",
         "desc": [
@@ -5685,7 +5685,7 @@
         ],
         "url": "/api/spells/locate-object"
     },
-    "Magic Mouth": {
+    "magic-mouth": {
         "index": "magic-mouth",
         "name": "Magic Mouth",
         "desc": [
@@ -5732,7 +5732,7 @@
         ],
         "url": "/api/spells/magic-mouth"
     },
-    "Magic Weapon": {
+    "magic-weapon": {
         "index": "magic-weapon",
         "name": "Magic Weapon",
         "desc": [
@@ -5777,7 +5777,7 @@
         ],
         "url": "/api/spells/magic-weapon"
     },
-    "Mirror Image": {
+    "mirror-image": {
         "index": "mirror-image",
         "name": "Mirror Image",
         "desc": [
@@ -5833,7 +5833,7 @@
         ],
         "url": "/api/spells/mirror-image"
     },
-    "Misty Step": {
+    "misty-step": {
         "index": "misty-step",
         "name": "Misty Step",
         "desc": [
@@ -5884,7 +5884,7 @@
         ],
         "url": "/api/spells/misty-step"
     },
-    "Moonbeam": {
+    "moonbeam": {
         "index": "moonbeam",
         "name": "Moonbeam",
         "desc": [
@@ -5958,7 +5958,7 @@
         ],
         "url": "/api/spells/moonbeam"
     },
-    "Pass Without Trace": {
+    "pass-without-trace": {
         "index": "pass-without-trace",
         "name": "Pass Without Trace",
         "desc": [
@@ -6007,7 +6007,7 @@
         ],
         "url": "/api/spells/pass-without-trace"
     },
-    "Prayer of Healing": {
+    "prayer-of-healing": {
         "index": "prayer-of-healing",
         "name": "Prayer of Healing",
         "desc": [
@@ -6056,7 +6056,7 @@
         ],
         "url": "/api/spells/prayer-of-healing"
     },
-    "Protection from Poison": {
+    "protection-from-poison": {
         "index": "protection-from-poison",
         "name": "Protection from Poison",
         "desc": [
@@ -6109,7 +6109,7 @@
         ],
         "url": "/api/spells/protection-from-poison"
     },
-    "Ray of Enfeeblement": {
+    "ray-of-enfeeblement": {
         "index": "ray-of-enfeeblement",
         "name": "Ray of Enfeeblement",
         "desc": [
@@ -6153,7 +6153,7 @@
         ],
         "url": "/api/spells/ray-of-enfeeblement"
     },
-    "Rope Trick": {
+    "rope-trick": {
         "index": "rope-trick",
         "name": "Rope Trick",
         "desc": [
@@ -6195,7 +6195,7 @@
         ],
         "url": "/api/spells/rope-trick"
     },
-    "Scorching Ray": {
+    "scorching-ray": {
         "index": "scorching-ray",
         "name": "Scorching Ray",
         "desc": [
@@ -6256,7 +6256,7 @@
         ],
         "url": "/api/spells/scorching-ray"
     },
-    "See Invisibility": {
+    "see-invisibility": {
         "index": "see-invisibility",
         "name": "See Invisibility",
         "desc": [
@@ -6305,7 +6305,7 @@
         ],
         "url": "/api/spells/see-invisibility"
     },
-    "Shatter": {
+    "shatter": {
         "index": "shatter",
         "name": "Shatter",
         "desc": [
@@ -6392,7 +6392,7 @@
         ],
         "url": "/api/spells/shatter"
     },
-    "Silence": {
+    "silence": {
         "index": "silence",
         "name": "Silence",
         "desc": [
@@ -6449,7 +6449,7 @@
         ],
         "url": "/api/spells/silence"
     },
-    "Spider Climb": {
+    "spider-climb": {
         "index": "spider-climb",
         "name": "Spider Climb",
         "desc": [
@@ -6503,7 +6503,7 @@
         ],
         "url": "/api/spells/spider-climb"
     },
-    "Spike Growth": {
+    "spike-growth": {
         "index": "spike-growth",
         "name": "Spike Growth",
         "desc": [
@@ -6557,7 +6557,7 @@
         ],
         "url": "/api/spells/spike-growth"
     },
-    "Spiritual Weapon": {
+    "spiritual-weapon": {
         "index": "spiritual-weapon",
         "name": "Spiritual Weapon",
         "desc": [
@@ -6622,7 +6622,7 @@
         ],
         "url": "/api/spells/spiritual-weapon"
     },
-    "Suggestion": {
+    "suggestion": {
         "index": "suggestion",
         "name": "Suggestion",
         "desc": [
@@ -6686,7 +6686,7 @@
         ],
         "url": "/api/spells/suggestion"
     },
-    "Warding Bond": {
+    "warding-bond": {
         "index": "warding-bond",
         "name": "Warding Bond",
         "desc": [
@@ -6727,7 +6727,7 @@
         ],
         "url": "/api/spells/warding-bond"
     },
-    "Web": {
+    "web": {
         "index": "web",
         "name": "Web",
         "desc": [
@@ -6784,7 +6784,7 @@
         ],
         "url": "/api/spells/web"
     },
-    "Zone of Truth": {
+    "zone-of-truth": {
         "index": "zone-of-truth",
         "name": "Zone of Truth",
         "desc": [
@@ -6841,7 +6841,7 @@
         ],
         "url": "/api/spells/zone-of-truth"
     },
-    "Animate Dead": {
+    "animate-dead": {
         "index": "animate-dead",
         "name": "Animate Dead",
         "desc": [
@@ -6890,7 +6890,7 @@
         ],
         "url": "/api/spells/animate-dead"
     },
-    "Beacon of Hope": {
+    "beacon-of-hope": {
         "index": "beacon-of-hope",
         "name": "Beacon of Hope",
         "desc": [
@@ -6937,7 +6937,7 @@
         ],
         "url": "/api/spells/beacon-of-hope"
     },
-    "Bestow Curse": {
+    "bestow-curse": {
         "index": "bestow-curse",
         "name": "Bestow Curse",
         "desc": [
@@ -7001,7 +7001,7 @@
         ],
         "url": "/api/spells/bestow-curse"
     },
-    "Blink": {
+    "blink": {
         "index": "blink",
         "name": "Blink",
         "desc": [
@@ -7044,7 +7044,7 @@
         ],
         "url": "/api/spells/blink"
     },
-    "Call Lightning": {
+    "call-lightning": {
         "index": "call-lightning",
         "name": "Call Lightning",
         "desc": [
@@ -7111,7 +7111,7 @@
         ],
         "url": "/api/spells/call-lightning"
     },
-    "Clairvoyance": {
+    "clairvoyance": {
         "index": "clairvoyance",
         "name": "Clairvoyance",
         "desc": [
@@ -7167,7 +7167,7 @@
         ],
         "url": "/api/spells/clairvoyance"
     },
-    "Conjure Animals": {
+    "conjure-animals": {
         "index": "conjure-animals",
         "name": "Conjure Animals",
         "desc": [
@@ -7219,7 +7219,7 @@
         ],
         "url": "/api/spells/conjure-animals"
     },
-    "Counterspell": {
+    "counterspell": {
         "index": "counterspell",
         "name": "Counterspell",
         "desc": [
@@ -7262,7 +7262,7 @@
         "subclasses": [],
         "url": "/api/spells/counterspell"
     },
-    "Create Food and Water": {
+    "create-food-and-water": {
         "index": "create-food-and-water",
         "name": "Create Food and Water",
         "desc": [
@@ -7314,7 +7314,7 @@
         ],
         "url": "/api/spells/create-food-and-water"
     },
-    "Daylight": {
+    "daylight": {
         "index": "daylight",
         "name": "Daylight",
         "desc": [
@@ -7382,7 +7382,7 @@
         ],
         "url": "/api/spells/daylight"
     },
-    "Dispel Magic": {
+    "dispel-magic": {
         "index": "dispel-magic",
         "name": "Dispel Magic",
         "desc": [
@@ -7457,7 +7457,7 @@
         ],
         "url": "/api/spells/dispel-magic"
     },
-    "Fear": {
+    "fear": {
         "index": "fear",
         "name": "Fear",
         "desc": [
@@ -7525,7 +7525,7 @@
         ],
         "url": "/api/spells/fear"
     },
-    "Fireball": {
+    "fireball": {
         "index": "fireball",
         "name": "Fireball",
         "desc": [
@@ -7606,7 +7606,7 @@
         ],
         "url": "/api/spells/fireball"
     },
-    "Fly": {
+    "fly": {
         "index": "fly",
         "name": "Fly",
         "desc": [
@@ -7658,7 +7658,7 @@
         ],
         "url": "/api/spells/fly"
     },
-    "Gaseous Form": {
+    "gaseous-form": {
         "index": "gaseous-form",
         "name": "Gaseous Form",
         "desc": [
@@ -7714,7 +7714,7 @@
         ],
         "url": "/api/spells/gaseous-form"
     },
-    "Glyph of Warding": {
+    "glyph-of-warding": {
         "index": "glyph-of-warding",
         "name": "Glyph of Warding",
         "desc": [
@@ -7772,7 +7772,7 @@
         ],
         "url": "/api/spells/glyph-of-warding"
     },
-    "Haste": {
+    "haste": {
         "index": "haste",
         "name": "Haste",
         "desc": [
@@ -7822,7 +7822,7 @@
         ],
         "url": "/api/spells/haste"
     },
-    "Hypnotic Pattern": {
+    "hypnotic-pattern": {
         "index": "hypnotic-pattern",
         "name": "Hypnotic Pattern",
         "desc": [
@@ -7885,7 +7885,7 @@
         ],
         "url": "/api/spells/hypnotic-pattern"
     },
-    "Lightning Bolt": {
+    "lightning-bolt": {
         "index": "lightning-bolt",
         "name": "Lightning Bolt",
         "desc": [
@@ -7966,7 +7966,7 @@
         ],
         "url": "/api/spells/lightning-bolt"
     },
-    "Magic Circle": {
+    "magic-circle": {
         "index": "magic-circle",
         "name": "Magic Circle",
         "desc": [
@@ -8041,7 +8041,7 @@
         ],
         "url": "/api/spells/magic-circle"
     },
-    "Major Image": {
+    "major-image": {
         "index": "major-image",
         "name": "Major Image",
         "desc": [
@@ -8100,7 +8100,7 @@
         ],
         "url": "/api/spells/major-image"
     },
-    "Mass Healing Word": {
+    "mass-healing-word": {
         "index": "mass-healing-word",
         "name": "Mass Healing Word",
         "desc": [
@@ -8148,7 +8148,7 @@
         ],
         "url": "/api/spells/mass-healing-word"
     },
-    "Meld Into Stone": {
+    "meld-into-stone": {
         "index": "meld-into-stone",
         "name": "Meld Into Stone",
         "desc": [
@@ -8192,7 +8192,7 @@
         ],
         "url": "/api/spells/meld-into-stone"
     },
-    "Nondetection": {
+    "nondetection": {
         "index": "nondetection",
         "name": "Nondetection",
         "desc": [
@@ -8241,7 +8241,7 @@
         ],
         "url": "/api/spells/nondetection"
     },
-    "Phantom Steed": {
+    "phantom-steed": {
         "index": "phantom-steed",
         "name": "Phantom Steed",
         "desc": [
@@ -8279,7 +8279,7 @@
         ],
         "url": "/api/spells/phantom-steed"
     },
-    "Plant Growth": {
+    "plant-growth": {
         "index": "plant-growth",
         "name": "Plant Growth",
         "desc": [
@@ -8334,7 +8334,7 @@
         ],
         "url": "/api/spells/plant-growth"
     },
-    "Protection From Energy": {
+    "protection-from-energy": {
         "index": "protection-from-energy",
         "name": "Protection From Energy",
         "desc": [
@@ -8396,7 +8396,7 @@
         ],
         "url": "/api/spells/protection-from-energy"
     },
-    "Remove Curse": {
+    "remove-curse": {
         "index": "remove-curse",
         "name": "Remove Curse",
         "desc": [
@@ -8448,7 +8448,7 @@
         ],
         "url": "/api/spells/remove-curse"
     },
-    "Revivify": {
+    "revivify": {
         "index": "revivify",
         "name": "Revivify",
         "desc": [
@@ -8497,7 +8497,7 @@
         ],
         "url": "/api/spells/revivify"
     },
-    "Sending": {
+    "sending": {
         "index": "sending",
         "name": "Sending",
         "desc": [
@@ -8547,7 +8547,7 @@
         ],
         "url": "/api/spells/sending"
     },
-    "Sleet Storm": {
+    "sleet-storm": {
         "index": "sleet-storm",
         "name": "Sleet Storm",
         "desc": [
@@ -8607,7 +8607,7 @@
         ],
         "url": "/api/spells/sleet-storm"
     },
-    "Slow": {
+    "slow": {
         "index": "slow",
         "name": "Slow",
         "desc": [
@@ -8672,7 +8672,7 @@
         ],
         "url": "/api/spells/slow"
     },
-    "Speak with Dead": {
+    "speak-with-dead": {
         "index": "speak-with-dead",
         "name": "Speak with Dead",
         "desc": [
@@ -8717,7 +8717,7 @@
         ],
         "url": "/api/spells/speak-with-dead"
     },
-    "Speak with Plants": {
+    "speak-with-plants": {
         "index": "speak-with-plants",
         "name": "Speak with Plants",
         "desc": [
@@ -8772,7 +8772,7 @@
         ],
         "url": "/api/spells/speak-with-plants"
     },
-    "Spirit Guardians": {
+    "spirit-guardians": {
         "index": "spirit-guardians",
         "name": "Spirit Guardians",
         "desc": [
@@ -8815,7 +8815,7 @@
         ],
         "url": "/api/spells/spirit-guardians"
     },
-    "Stinking Cloud": {
+    "stinking-cloud": {
         "index": "stinking-cloud",
         "name": "Stinking Cloud",
         "desc": [
@@ -8889,7 +8889,7 @@
         ],
         "url": "/api/spells/stinking-cloud"
     },
-    "Tiny Hut": {
+    "tiny-hut": {
         "index": "tiny-hut",
         "name": "Tiny Hut",
         "desc": [
@@ -8939,7 +8939,7 @@
         ],
         "url": "/api/spells/tiny-hut"
     },
-    "Tongues": {
+    "tongues": {
         "index": "tongues",
         "name": "Tongues",
         "desc": [
@@ -8997,7 +8997,7 @@
         ],
         "url": "/api/spells/tongues"
     },
-    "Vampiric Touch": {
+    "vampiric-touch": {
         "index": "vampiric-touch",
         "name": "Vampiric Touch",
         "desc": [
@@ -9059,7 +9059,7 @@
         ],
         "url": "/api/spells/vampiric-touch"
     },
-    "Water Breathing": {
+    "water-breathing": {
         "index": "water-breathing",
         "name": "Water Breathing",
         "desc": [
@@ -9118,7 +9118,7 @@
         ],
         "url": "/api/spells/water-breathing"
     },
-    "Water Walk": {
+    "water-walk": {
         "index": "water-walk",
         "name": "Water Walk",
         "desc": [
@@ -9178,7 +9178,7 @@
         ],
         "url": "/api/spells/water-walk"
     },
-    "Wind Wall": {
+    "wind-wall": {
         "index": "wind-wall",
         "name": "Wind Wall",
         "desc": [
@@ -9246,7 +9246,7 @@
         ],
         "url": "/api/spells/wind-wall"
     },
-    "Arcane Eye": {
+    "arcane-eye": {
         "index": "arcane-eye",
         "name": "Arcane Eye",
         "desc": [
@@ -9290,7 +9290,7 @@
         "subclasses": [],
         "url": "/api/spells/arcane-eye"
     },
-    "Banishment": {
+    "banishment": {
         "index": "banishment",
         "name": "Banishment",
         "desc": [
@@ -9356,7 +9356,7 @@
         "subclasses": [],
         "url": "/api/spells/banishment"
     },
-    "Black Tentacles": {
+    "black-tentacles": {
         "index": "black-tentacles",
         "name": "Black Tentacles",
         "desc": [
@@ -9414,7 +9414,7 @@
         "subclasses": [],
         "url": "/api/spells/black-tentacles"
     },
-    "Blight": {
+    "blight": {
         "index": "blight",
         "name": "Blight",
         "desc": [
@@ -9494,7 +9494,7 @@
         ],
         "url": "/api/spells/blight"
     },
-    "Compulsion": {
+    "compulsion": {
         "index": "compulsion",
         "name": "Compulsion",
         "desc": [
@@ -9534,7 +9534,7 @@
         "subclasses": [],
         "url": "/api/spells/compulsion"
     },
-    "Confusion": {
+    "confusion": {
         "index": "confusion",
         "name": "Confusion",
         "desc": [
@@ -9605,7 +9605,7 @@
         "subclasses": [],
         "url": "/api/spells/confusion"
     },
-    "Conjure Minor Elementals": {
+    "conjure-minor-elementals": {
         "index": "conjure-minor-elementals",
         "name": "Conjure Minor Elementals",
         "desc": [
@@ -9651,7 +9651,7 @@
         "subclasses": [],
         "url": "/api/spells/conjure-minor-elementals"
     },
-    "Conjure Woodland Beings": {
+    "conjure-woodland-beings": {
         "index": "conjure-woodland-beings",
         "name": "Conjure Woodland Beings",
         "desc": [
@@ -9699,7 +9699,7 @@
         "subclasses": [],
         "url": "/api/spells/conjure-woodland-beings"
     },
-    "Control Water": {
+    "control-water": {
         "index": "control-water",
         "name": "Control Water",
         "desc": [
@@ -9772,7 +9772,7 @@
         "subclasses": [],
         "url": "/api/spells/control-water"
     },
-    "Death Ward": {
+    "death-ward": {
         "index": "death-ward",
         "name": "Death Ward",
         "desc": [
@@ -9816,7 +9816,7 @@
         ],
         "url": "/api/spells/death-ward"
     },
-    "Dimension Door": {
+    "dimension-door": {
         "index": "dimension-door",
         "name": "Dimension Door",
         "desc": [
@@ -9873,7 +9873,7 @@
         "subclasses": [],
         "url": "/api/spells/dimension-door"
     },
-    "Divination": {
+    "divination": {
         "index": "divination",
         "name": "Divination",
         "desc": [
@@ -9914,7 +9914,7 @@
         ],
         "url": "/api/spells/divination"
     },
-    "Dominate Beast": {
+    "dominate-beast": {
         "index": "dominate-beast",
         "name": "Dominate Beast",
         "desc": [
@@ -9963,7 +9963,7 @@
         "subclasses": [],
         "url": "/api/spells/dominate-beast"
     },
-    "Fabricate": {
+    "fabricate": {
         "index": "fabricate",
         "name": "Fabricate",
         "desc": [
@@ -9996,7 +9996,7 @@
         "subclasses": [],
         "url": "/api/spells/fabricate"
     },
-    "Faithful Hound": {
+    "faithful-hound": {
         "index": "faithful-hound",
         "name": "Faithful Hound",
         "desc": [
@@ -10042,7 +10042,7 @@
         "subclasses": [],
         "url": "/api/spells/faithful-hound"
     },
-    "Fire Shield": {
+    "fire-shield": {
         "index": "fire-shield",
         "name": "Fire Shield",
         "desc": [
@@ -10097,7 +10097,7 @@
         ],
         "url": "/api/spells/fire-shield"
     },
-    "Freedom of Movement": {
+    "freedom-of-movement": {
         "index": "freedom-of-movement",
         "name": "Freedom of Movement",
         "desc": [
@@ -10157,7 +10157,7 @@
         ],
         "url": "/api/spells/freedom-of-movement"
     },
-    "Giant Insect": {
+    "giant-insect": {
         "index": "giant-insect",
         "name": "Giant Insect",
         "desc": [
@@ -10191,7 +10191,7 @@
         "subclasses": [],
         "url": "/api/spells/giant-insect"
     },
-    "Greater Invisibility": {
+    "greater-invisibility": {
         "index": "greater-invisibility",
         "name": "Greater Invisibility",
         "desc": [
@@ -10238,7 +10238,7 @@
         ],
         "url": "/api/spells/greater-invisibility"
     },
-    "Guardian of Faith": {
+    "guardian-of-faith": {
         "index": "guardian-of-faith",
         "name": "Guardian of Faith",
         "desc": [
@@ -10296,7 +10296,7 @@
         "subclasses": [],
         "url": "/api/spells/guardian-of-faith"
     },
-    "Hallucinatory Terrain": {
+    "hallucinatory-terrain": {
         "index": "hallucinatory-terrain",
         "name": "Hallucinatory Terrain",
         "desc": [
@@ -10355,7 +10355,7 @@
         ],
         "url": "/api/spells/hallucinatory-terrain"
     },
-    "Ice Storm": {
+    "ice-storm": {
         "index": "ice-storm",
         "name": "Ice Storm",
         "desc": [
@@ -10435,7 +10435,7 @@
         ],
         "url": "/api/spells/ice-storm"
     },
-    "Locate Creature": {
+    "locate-creature": {
         "index": "locate-creature",
         "name": "Locate Creature",
         "desc": [
@@ -10501,7 +10501,7 @@
         ],
         "url": "/api/spells/locate-creature"
     },
-    "Phantasmal Killer": {
+    "phantasmal-killer": {
         "index": "phantasmal-killer",
         "name": "Phantasmal Killer",
         "desc": [
@@ -10553,7 +10553,7 @@
         "subclasses": [],
         "url": "/api/spells/phantasmal-killer"
     },
-    "Polymorph": {
+    "polymorph": {
         "index": "polymorph",
         "name": "Polymorph",
         "desc": [
@@ -10613,7 +10613,7 @@
         "subclasses": [],
         "url": "/api/spells/polymorph"
     },
-    "Private Sanctum": {
+    "private-sanctum": {
         "index": "private-sanctum",
         "name": "Private Sanctum",
         "desc": [
@@ -10661,7 +10661,7 @@
         "subclasses": [],
         "url": "/api/spells/private-sanctum"
     },
-    "Resilient Sphere": {
+    "resilient-sphere": {
         "index": "resilient-sphere",
         "name": "Resilient Sphere",
         "desc": [
@@ -10705,7 +10705,7 @@
         "subclasses": [],
         "url": "/api/spells/resilient-sphere"
     },
-    "Secret Chest": {
+    "secret-chest": {
         "index": "secret-chest",
         "name": "Secret Chest",
         "desc": [
@@ -10740,7 +10740,7 @@
         "subclasses": [],
         "url": "/api/spells/secret-chest"
     },
-    "Stone Shape": {
+    "stone-shape": {
         "index": "stone-shape",
         "name": "Stone Shape",
         "desc": [
@@ -10789,7 +10789,7 @@
         ],
         "url": "/api/spells/stone-shape"
     },
-    "Stoneskin": {
+    "stoneskin": {
         "index": "stoneskin",
         "name": "Stoneskin",
         "desc": [
@@ -10843,7 +10843,7 @@
         ],
         "url": "/api/spells/stoneskin"
     },
-    "Wall of Fire": {
+    "wall-of-fire": {
         "index": "wall-of-fire",
         "name": "Wall of Fire",
         "desc": [
@@ -10920,7 +10920,7 @@
         ],
         "url": "/api/spells/wall-of-fire"
     },
-    "Animate Objects": {
+    "animate-objects": {
         "index": "animate-objects",
         "name": "Animate Objects",
         "desc": [
@@ -10975,7 +10975,7 @@
         "subclasses": [],
         "url": "/api/spells/animate-objects"
     },
-    "Antilife Shell": {
+    "antilife-shell": {
         "index": "antilife-shell",
         "name": "Antilife Shell",
         "desc": [
@@ -11012,7 +11012,7 @@
         "subclasses": [],
         "url": "/api/spells/antilife-shell"
     },
-    "Arcane Hand": {
+    "arcane-hand": {
         "index": "arcane-hand",
         "name": "Arcane Hand",
         "desc": [
@@ -11054,7 +11054,7 @@
         "subclasses": [],
         "url": "/api/spells/arcane-hand"
     },
-    "Awaken": {
+    "awaken": {
         "index": "awaken",
         "name": "Awaken",
         "desc": [
@@ -11093,7 +11093,7 @@
         "subclasses": [],
         "url": "/api/spells/awaken"
     },
-    "Cloudkill": {
+    "cloudkill": {
         "index": "cloudkill",
         "name": "Cloudkill",
         "desc": [
@@ -11167,7 +11167,7 @@
         ],
         "url": "/api/spells/cloudkill"
     },
-    "Commune": {
+    "commune": {
         "index": "commune",
         "name": "Commune",
         "desc": [
@@ -11208,7 +11208,7 @@
         ],
         "url": "/api/spells/commune"
     },
-    "Commune With Nature": {
+    "commune-with-nature": {
         "index": "commune-with-nature",
         "name": "Commune With Nature",
         "desc": [
@@ -11257,7 +11257,7 @@
         ],
         "url": "/api/spells/commune-with-nature"
     },
-    "Cone of Cold": {
+    "cone-of-cold": {
         "index": "cone-of-cold",
         "name": "Cone of Cold",
         "desc": [
@@ -11332,7 +11332,7 @@
         ],
         "url": "/api/spells/cone-of-cold"
     },
-    "Conjure Elemental": {
+    "conjure-elemental": {
         "index": "conjure-elemental",
         "name": "Conjure Elemental",
         "desc": [
@@ -11386,7 +11386,7 @@
         ],
         "url": "/api/spells/conjure-elemental"
     },
-    "Contact Other Plane": {
+    "contact-other-plane": {
         "index": "contact-other-plane",
         "name": "Contact Other Plane",
         "desc": [
@@ -11431,7 +11431,7 @@
         "subclasses": [],
         "url": "/api/spells/contact-other-plane"
     },
-    "Contagion": {
+    "contagion": {
         "index": "contagion",
         "name": "Contagion",
         "desc": [
@@ -11485,7 +11485,7 @@
         "subclasses": [],
         "url": "/api/spells/contagion"
     },
-    "Creation": {
+    "creation": {
         "index": "creation",
         "name": "Creation",
         "desc": [
@@ -11539,7 +11539,7 @@
         "subclasses": [],
         "url": "/api/spells/creation"
     },
-    "Dispel Evil and Good": {
+    "dispel-evil-and-good": {
         "index": "dispel-evil-and-good",
         "name": "Dispel Evil and Good",
         "desc": [
@@ -11589,7 +11589,7 @@
         "subclasses": [],
         "url": "/api/spells/dispel-evil-and-good"
     },
-    "Dominate Person": {
+    "dominate-person": {
         "index": "dominate-person",
         "name": "Dominate Person",
         "desc": [
@@ -11645,7 +11645,7 @@
         "subclasses": [],
         "url": "/api/spells/dominate-person"
     },
-    "Dream": {
+    "dream": {
         "index": "dream",
         "name": "Dream",
         "desc": [
@@ -11717,7 +11717,7 @@
         ],
         "url": "/api/spells/dream"
     },
-    "Flame Strike": {
+    "flame-strike": {
         "index": "flame-strike",
         "name": "Flame Strike",
         "desc": [
@@ -11790,7 +11790,7 @@
         ],
         "url": "/api/spells/flame-strike"
     },
-    "Geas": {
+    "geas": {
         "index": "geas",
         "name": "Geas",
         "desc": [
@@ -11853,7 +11853,7 @@
         "subclasses": [],
         "url": "/api/spells/geas"
     },
-    "Greater Restoration": {
+    "greater-restoration": {
         "index": "greater-restoration",
         "name": "Greater Restoration",
         "desc": [
@@ -11900,7 +11900,7 @@
         "subclasses": [],
         "url": "/api/spells/greater-restoration"
     },
-    "Hallow": {
+    "hallow": {
         "index": "hallow",
         "name": "Hallow",
         "desc": [
@@ -11963,7 +11963,7 @@
         ],
         "url": "/api/spells/hallow"
     },
-    "Hold Monster": {
+    "hold-monster": {
         "index": "hold-monster",
         "name": "Hold Monster",
         "desc": [
@@ -12022,7 +12022,7 @@
         "subclasses": [],
         "url": "/api/spells/hold-monster"
     },
-    "Insect Plague": {
+    "insect-plague": {
         "index": "insect-plague",
         "name": "Insect Plague",
         "desc": [
@@ -12101,7 +12101,7 @@
         ],
         "url": "/api/spells/insect-plague"
     },
-    "Legend Lore": {
+    "legend-lore": {
         "index": "legend-lore",
         "name": "Legend Lore",
         "desc": [
@@ -12145,7 +12145,7 @@
         "subclasses": [],
         "url": "/api/spells/legend-lore"
     },
-    "Mass Cure Wounds": {
+    "mass-cure-wounds": {
         "index": "mass-cure-wounds",
         "name": "Mass Cure Wounds",
         "desc": [
@@ -12206,7 +12206,7 @@
         ],
         "url": "/api/spells/mass-cure-wounds"
     },
-    "Mislead": {
+    "mislead": {
         "index": "mislead",
         "name": "Mislead",
         "desc": [
@@ -12243,7 +12243,7 @@
         "subclasses": [],
         "url": "/api/spells/mislead"
     },
-    "Modify Memory": {
+    "modify-memory": {
         "index": "modify-memory",
         "name": "Modify Memory",
         "desc": [
@@ -12294,7 +12294,7 @@
         "subclasses": [],
         "url": "/api/spells/modify-memory"
     },
-    "Passwall": {
+    "passwall": {
         "index": "passwall",
         "name": "Passwall",
         "desc": [
@@ -12334,7 +12334,7 @@
         ],
         "url": "/api/spells/passwall"
     },
-    "Planar Binding": {
+    "planar-binding": {
         "index": "planar-binding",
         "name": "Planar Binding",
         "desc": [
@@ -12394,7 +12394,7 @@
         "subclasses": [],
         "url": "/api/spells/planar-binding"
     },
-    "Raise Dead": {
+    "raise-dead": {
         "index": "raise-dead",
         "name": "Raise Dead",
         "desc": [
@@ -12446,7 +12446,7 @@
         ],
         "url": "/api/spells/raise-dead"
     },
-    "Reincarnate": {
+    "reincarnate": {
         "index": "reincarnate",
         "name": "Reincarnate",
         "desc": [
@@ -12497,7 +12497,7 @@
         "subclasses": [],
         "url": "/api/spells/reincarnate"
     },
-    "Scrying": {
+    "scrying": {
         "index": "scrying",
         "name": "Scrying",
         "desc": [
@@ -12578,7 +12578,7 @@
         ],
         "url": "/api/spells/scrying"
     },
-    "Seeming": {
+    "seeming": {
         "index": "seeming",
         "name": "Seeming",
         "desc": [
@@ -12622,7 +12622,7 @@
         "subclasses": [],
         "url": "/api/spells/seeming"
     },
-    "Telekinesis": {
+    "telekinesis": {
         "index": "telekinesis",
         "name": "Telekinesis",
         "desc": [
@@ -12667,7 +12667,7 @@
         "subclasses": [],
         "url": "/api/spells/telekinesis"
     },
-    "Telepathic Bond": {
+    "telepathic-bond": {
         "index": "telepathic-bond",
         "name": "Telepathic Bond",
         "desc": [
@@ -12701,7 +12701,7 @@
         "subclasses": [],
         "url": "/api/spells/telepathic-bond"
     },
-    "Teleportation Circle": {
+    "teleportation-circle": {
         "index": "teleportation-circle",
         "name": "Teleportation Circle",
         "desc": [
@@ -12749,7 +12749,7 @@
         "subclasses": [],
         "url": "/api/spells/teleportation-circle"
     },
-    "Tree Stride": {
+    "tree-stride": {
         "index": "tree-stride",
         "name": "Tree Stride",
         "desc": [
@@ -12792,7 +12792,7 @@
         ],
         "url": "/api/spells/tree-stride"
     },
-    "Wall of Force": {
+    "wall-of-force": {
         "index": "wall-of-force",
         "name": "Wall of Force",
         "desc": [
@@ -12826,7 +12826,7 @@
         "subclasses": [],
         "url": "/api/spells/wall-of-force"
     },
-    "Wall of Stone": {
+    "wall-of-stone": {
         "index": "wall-of-stone",
         "name": "Wall of Stone",
         "desc": [
@@ -12880,7 +12880,7 @@
         ],
         "url": "/api/spells/wall-of-stone"
     },
-    "Blade Barrier": {
+    "blade-barrier": {
         "index": "blade-barrier",
         "name": "Blade Barrier",
         "desc": [
@@ -12934,7 +12934,7 @@
         "subclasses": [],
         "url": "/api/spells/blade-barrier"
     },
-    "Chain Lightning": {
+    "chain-lightning": {
         "index": "chain-lightning",
         "name": "Chain Lightning",
         "desc": [
@@ -12994,7 +12994,7 @@
         "subclasses": [],
         "url": "/api/spells/chain-lightning"
     },
-    "Circle of Death": {
+    "circle-of-death": {
         "index": "circle-of-death",
         "name": "Circle of Death",
         "desc": [
@@ -13065,7 +13065,7 @@
         "subclasses": [],
         "url": "/api/spells/circle-of-death"
     },
-    "Conjure Fey": {
+    "conjure-fey": {
         "index": "conjure-fey",
         "name": "Conjure Fey",
         "desc": [
@@ -13107,7 +13107,7 @@
         "subclasses": [],
         "url": "/api/spells/conjure-fey"
     },
-    "Contingency": {
+    "contingency": {
         "index": "contingency",
         "name": "Contingency",
         "desc": [
@@ -13142,7 +13142,7 @@
         "subclasses": [],
         "url": "/api/spells/contingency"
     },
-    "Create Undead": {
+    "create-undead": {
         "index": "create-undead",
         "name": "Create Undead",
         "desc": [
@@ -13190,7 +13190,7 @@
         "subclasses": [],
         "url": "/api/spells/create-undead"
     },
-    "Disintegrate": {
+    "disintegrate": {
         "index": "disintegrate",
         "name": "Disintegrate",
         "desc": [
@@ -13256,7 +13256,7 @@
         "subclasses": [],
         "url": "/api/spells/disintegrate"
     },
-    "Eyebite": {
+    "eyebite": {
         "index": "eyebite",
         "name": "Eyebite",
         "desc": [
@@ -13314,7 +13314,7 @@
         "subclasses": [],
         "url": "/api/spells/eyebite"
     },
-    "Find the Path": {
+    "find-the-path": {
         "index": "find-the-path",
         "name": "Find the Path",
         "desc": [
@@ -13353,7 +13353,7 @@
         "subclasses": [],
         "url": "/api/spells/find-the-path"
     },
-    "Flesh to Stone": {
+    "flesh-to-stone": {
         "index": "flesh-to-stone",
         "name": "Flesh to Stone",
         "desc": [
@@ -13403,7 +13403,7 @@
         "subclasses": [],
         "url": "/api/spells/flesh-to-stone"
     },
-    "Forbiddance": {
+    "forbiddance": {
         "index": "forbiddance",
         "name": "Forbiddance",
         "desc": [
@@ -13443,7 +13443,7 @@
         "subclasses": [],
         "url": "/api/spells/forbiddance"
     },
-    "Freezing Sphere": {
+    "freezing-sphere": {
         "index": "freezing-sphere",
         "name": "Freezing Sphere",
         "desc": [
@@ -13503,7 +13503,7 @@
         "subclasses": [],
         "url": "/api/spells/freezing-sphere"
     },
-    "Globe of Invulnerability": {
+    "globe-of-invulnerability": {
         "index": "globe-of-invulnerability",
         "name": "Globe of Invulnerability",
         "desc": [
@@ -13549,7 +13549,7 @@
         "subclasses": [],
         "url": "/api/spells/globe-of-invulnerability"
     },
-    "Guards and Wards": {
+    "guards-and-wards": {
         "index": "guards-and-wards",
         "name": "Guards and Wards",
         "desc": [
@@ -13604,7 +13604,7 @@
         "subclasses": [],
         "url": "/api/spells/guards-and-wards"
     },
-    "Harm": {
+    "harm": {
         "index": "harm",
         "name": "Harm",
         "desc": [
@@ -13653,7 +13653,7 @@
         "subclasses": [],
         "url": "/api/spells/harm"
     },
-    "Heal": {
+    "heal": {
         "index": "heal",
         "name": "Heal",
         "desc": [
@@ -13698,7 +13698,7 @@
         "subclasses": [],
         "url": "/api/spells/heal"
     },
-    "Heroes' Feast": {
+    "heroes-feast": {
         "index": "heroes-feast",
         "name": "Heroes' Feast",
         "desc": [
@@ -13737,7 +13737,7 @@
         "subclasses": [],
         "url": "/api/spells/heroes-feast"
     },
-    "Instant Summons": {
+    "instant-summons": {
         "index": "instant-summons",
         "name": "Instant Summons",
         "desc": [
@@ -13773,7 +13773,7 @@
         "subclasses": [],
         "url": "/api/spells/instant-summons"
     },
-    "Irresistible Dance": {
+    "irresistible-dance": {
         "index": "irresistible-dance",
         "name": "Irresistible Dance",
         "desc": [
@@ -13809,7 +13809,7 @@
         "subclasses": [],
         "url": "/api/spells/irresistible-dance"
     },
-    "Magic Jar": {
+    "magic-jar": {
         "index": "magic-jar",
         "name": "Magic Jar",
         "desc": [
@@ -13857,7 +13857,7 @@
         "subclasses": [],
         "url": "/api/spells/magic-jar"
     },
-    "Mass Suggestion": {
+    "mass-suggestion": {
         "index": "mass-suggestion",
         "name": "Mass Suggestion",
         "desc": [
@@ -13918,7 +13918,7 @@
         "subclasses": [],
         "url": "/api/spells/mass-suggestion"
     },
-    "Move Earth": {
+    "move-earth": {
         "index": "move-earth",
         "name": "Move Earth",
         "desc": [
@@ -13969,7 +13969,7 @@
         "subclasses": [],
         "url": "/api/spells/move-earth"
     },
-    "Planar Ally": {
+    "planar-ally": {
         "index": "planar-ally",
         "name": "Planar Ally",
         "desc": [
@@ -14005,7 +14005,7 @@
         "subclasses": [],
         "url": "/api/spells/planar-ally"
     },
-    "Programmed Illusion": {
+    "programmed-illusion": {
         "index": "programmed-illusion",
         "name": "Programmed Illusion",
         "desc": [
@@ -14050,7 +14050,7 @@
         "subclasses": [],
         "url": "/api/spells/programmed-illusion"
     },
-    "Sunbeam": {
+    "sunbeam": {
         "index": "sunbeam",
         "name": "Sunbeam",
         "desc": [
@@ -14118,7 +14118,7 @@
         "subclasses": [],
         "url": "/api/spells/sunbeam"
     },
-    "Transport via Plants": {
+    "transport-via-plants": {
         "index": "transport-via-plants",
         "name": "Transport via Plants",
         "desc": [
@@ -14149,7 +14149,7 @@
         "subclasses": [],
         "url": "/api/spells/transport-via-plants"
     },
-    "True Seeing": {
+    "true-seeing": {
         "index": "true-seeing",
         "name": "True Seeing",
         "desc": [
@@ -14202,7 +14202,7 @@
         "subclasses": [],
         "url": "/api/spells/true-seeing"
     },
-    "Wall of Ice": {
+    "wall-of-ice": {
         "index": "wall-of-ice",
         "name": "Wall of Ice",
         "desc": [
@@ -14265,7 +14265,7 @@
         "subclasses": [],
         "url": "/api/spells/wall-of-ice"
     },
-    "Wall of Thorns": {
+    "wall-of-thorns": {
         "index": "wall-of-thorns",
         "name": "Wall of Thorns",
         "desc": [
@@ -14328,7 +14328,7 @@
         "subclasses": [],
         "url": "/api/spells/wall-of-thorns"
     },
-    "Wind Walk": {
+    "wind-walk": {
         "index": "wind-walk",
         "name": "Wind Walk",
         "desc": [
@@ -14362,7 +14362,7 @@
         "subclasses": [],
         "url": "/api/spells/wind-walk"
     },
-    "Word of Recall": {
+    "word-of-recall": {
         "index": "word-of-recall",
         "name": "Word of Recall",
         "desc": [
@@ -14397,7 +14397,7 @@
         "subclasses": [],
         "url": "/api/spells/word-of-recall"
     },
-    "Arcane Sword": {
+    "arcane-sword": {
         "index": "arcane-sword",
         "name": "Arcane Sword",
         "desc": [
@@ -14447,7 +14447,7 @@
         "subclasses": [],
         "url": "/api/spells/arcane-sword"
     },
-    "Conjure Celestial": {
+    "conjure-celestial": {
         "index": "conjure-celestial",
         "name": "Conjure Celestial",
         "desc": [
@@ -14483,7 +14483,7 @@
         "subclasses": [],
         "url": "/api/spells/conjure-celestial"
     },
-    "Delayed Blast Fireball": {
+    "delayed-blast-fireball": {
         "index": "delayed-blast-fireball",
         "name": "Delayed Blast Fireball",
         "desc": [
@@ -14551,7 +14551,7 @@
         "subclasses": [],
         "url": "/api/spells/delayed-blast-fireball"
     },
-    "Divine Word": {
+    "divine-word": {
         "index": "divine-word",
         "name": "Divine Word",
         "desc": [
@@ -14595,7 +14595,7 @@
         "subclasses": [],
         "url": "/api/spells/divine-word"
     },
-    "Etherealness": {
+    "etherealness": {
         "index": "etherealness",
         "name": "Etherealness",
         "desc": [
@@ -14653,7 +14653,7 @@
         "subclasses": [],
         "url": "/api/spells/etherealness"
     },
-    "Finger of Death": {
+    "finger-of-death": {
         "index": "finger-of-death",
         "name": "Finger of Death",
         "desc": [
@@ -14713,7 +14713,7 @@
         "subclasses": [],
         "url": "/api/spells/finger-of-death"
     },
-    "Fire Storm": {
+    "fire-storm": {
         "index": "fire-storm",
         "name": "Fire Storm",
         "desc": [
@@ -14777,7 +14777,7 @@
         "subclasses": [],
         "url": "/api/spells/fire-storm"
     },
-    "Forcecage": {
+    "forcecage": {
         "index": "forcecage",
         "name": "Forcecage",
         "desc": [
@@ -14829,7 +14829,7 @@
         "subclasses": [],
         "url": "/api/spells/forcecage"
     },
-    "Magnificent Mansion": {
+    "magnificent-mansion": {
         "index": "magnificent-mansion",
         "name": "Magnificent Mansion",
         "desc": [
@@ -14873,7 +14873,7 @@
         "subclasses": [],
         "url": "/api/spells/magnificent-mansion"
     },
-    "Mirage Arcane": {
+    "mirage-arcane": {
         "index": "mirage-arcane",
         "name": "Mirage Arcane",
         "desc": [
@@ -14921,7 +14921,7 @@
         "subclasses": [],
         "url": "/api/spells/mirage-arcane"
     },
-    "Plane Shift": {
+    "plane-shift": {
         "index": "plane-shift",
         "name": "Plane Shift",
         "desc": [
@@ -14986,7 +14986,7 @@
         "subclasses": [],
         "url": "/api/spells/plane-shift"
     },
-    "Prismatic Spray": {
+    "prismatic-spray": {
         "index": "prismatic-spray",
         "name": "Prismatic Spray",
         "desc": [
@@ -15048,7 +15048,7 @@
         "subclasses": [],
         "url": "/api/spells/prismatic-spray"
     },
-    "Project Image": {
+    "project-image": {
         "index": "project-image",
         "name": "Project Image",
         "desc": [
@@ -15089,7 +15089,7 @@
         "subclasses": [],
         "url": "/api/spells/project-image"
     },
-    "Regenerate": {
+    "regenerate": {
         "index": "regenerate",
         "name": "Regenerate",
         "desc": [
@@ -15136,7 +15136,7 @@
         "subclasses": [],
         "url": "/api/spells/regenerate"
     },
-    "Resurrection": {
+    "resurrection": {
         "index": "resurrection",
         "name": "Resurrection",
         "desc": [
@@ -15178,7 +15178,7 @@
         "subclasses": [],
         "url": "/api/spells/resurrection"
     },
-    "Reverse Gravity": {
+    "reverse-gravity": {
         "index": "reverse-gravity",
         "name": "Reverse Gravity",
         "desc": [
@@ -15236,7 +15236,7 @@
         "subclasses": [],
         "url": "/api/spells/reverse-gravity"
     },
-    "Sequester": {
+    "sequester": {
         "index": "sequester",
         "name": "Sequester",
         "desc": [
@@ -15271,7 +15271,7 @@
         "subclasses": [],
         "url": "/api/spells/sequester"
     },
-    "Simulacrum": {
+    "simulacrum": {
         "index": "simulacrum",
         "name": "Simulacrum",
         "desc": [
@@ -15307,7 +15307,7 @@
         "subclasses": [],
         "url": "/api/spells/simulacrum"
     },
-    "Symbol": {
+    "symbol": {
         "index": "symbol",
         "name": "Symbol",
         "desc": [
@@ -15366,7 +15366,7 @@
         "subclasses": [],
         "url": "/api/spells/symbol"
     },
-    "Teleport": {
+    "teleport": {
         "index": "teleport",
         "name": "Teleport",
         "desc": [
@@ -15431,7 +15431,7 @@
         "subclasses": [],
         "url": "/api/spells/teleport"
     },
-    "Animal Shapes": {
+    "animal-shapes": {
         "index": "animal-shapes",
         "name": "Animal Shapes",
         "desc": [
@@ -15464,7 +15464,7 @@
         "subclasses": [],
         "url": "/api/spells/animal-shapes"
     },
-    "Antimagic Field": {
+    "antimagic-field": {
         "index": "antimagic-field",
         "name": "Antimagic Field",
         "desc": [
@@ -15515,7 +15515,7 @@
         "subclasses": [],
         "url": "/api/spells/antimagic-field"
     },
-    "Antipathy/Sympathy": {
+    "antipathy-sympathy": {
         "index": "antipathy-sympathy",
         "name": "Antipathy/Sympathy",
         "desc": [
@@ -15562,7 +15562,7 @@
         "subclasses": [],
         "url": "/api/spells/antipathy-sympathy"
     },
-    "Clone": {
+    "clone": {
         "index": "clone",
         "name": "Clone",
         "desc": [
@@ -15596,7 +15596,7 @@
         "subclasses": [],
         "url": "/api/spells/clone"
     },
-    "Control Weather": {
+    "control-weather": {
         "index": "control-weather",
         "name": "Control Weather",
         "desc": [
@@ -15672,7 +15672,7 @@
         ],
         "url": "/api/spells/control-weather"
     },
-    "Demiplane": {
+    "demiplane": {
         "index": "demiplane",
         "name": "Demiplane",
         "desc": [
@@ -15708,7 +15708,7 @@
         "subclasses": [],
         "url": "/api/spells/demiplane"
     },
-    "Dominate Monster": {
+    "dominate-monster": {
         "index": "dominate-monster",
         "name": "Dominate Monster",
         "desc": [
@@ -15769,7 +15769,7 @@
         "subclasses": [],
         "url": "/api/spells/dominate-monster"
     },
-    "Earthquake": {
+    "earthquake": {
         "index": "earthquake",
         "name": "Earthquake",
         "desc": [
@@ -15822,7 +15822,7 @@
         "subclasses": [],
         "url": "/api/spells/earthquake"
     },
-    "Feeblemind": {
+    "feeblemind": {
         "index": "feeblemind",
         "name": "Feeblemind",
         "desc": [
@@ -15892,7 +15892,7 @@
         "subclasses": [],
         "url": "/api/spells/feeblemind"
     },
-    "Glibness": {
+    "glibness": {
         "index": "glibness",
         "name": "Glibness",
         "desc": [
@@ -15927,7 +15927,7 @@
         "subclasses": [],
         "url": "/api/spells/glibness"
     },
-    "Holy Aura": {
+    "holy-aura": {
         "index": "holy-aura",
         "name": "Holy Aura",
         "desc": [
@@ -15964,7 +15964,7 @@
         "subclasses": [],
         "url": "/api/spells/holy-aura"
     },
-    "Incendiary Cloud": {
+    "incendiary-cloud": {
         "index": "incendiary-cloud",
         "name": "Incendiary Cloud",
         "desc": [
@@ -16024,7 +16024,7 @@
         "subclasses": [],
         "url": "/api/spells/incendiary-cloud"
     },
-    "Maze": {
+    "maze": {
         "index": "maze",
         "name": "Maze",
         "desc": [
@@ -16057,7 +16057,7 @@
         "subclasses": [],
         "url": "/api/spells/maze"
     },
-    "Mind Blank": {
+    "mind-blank": {
         "index": "mind-blank",
         "name": "Mind Blank",
         "desc": [
@@ -16093,7 +16093,7 @@
         "subclasses": [],
         "url": "/api/spells/mind-blank"
     },
-    "Power Word Stun": {
+    "power-word-stun": {
         "index": "power-word-stun",
         "name": "Power Word Stun",
         "desc": [
@@ -16139,7 +16139,7 @@
         "subclasses": [],
         "url": "/api/spells/power-word-stun"
     },
-    "Sunburst": {
+    "sunburst": {
         "index": "sunburst",
         "name": "Sunburst",
         "desc": [
@@ -16207,7 +16207,7 @@
         "subclasses": [],
         "url": "/api/spells/sunburst"
     },
-    "Astral Projection": {
+    "astral-projection": {
         "index": "astral-projection",
         "name": "Astral Projection",
         "desc": [
@@ -16255,7 +16255,7 @@
         "subclasses": [],
         "url": "/api/spells/astral-projection"
     },
-    "Foresight": {
+    "foresight": {
         "index": "foresight",
         "name": "Foresight",
         "desc": [
@@ -16304,7 +16304,7 @@
         "subclasses": [],
         "url": "/api/spells/foresight"
     },
-    "Gate": {
+    "gate": {
         "index": "gate",
         "name": "Gate",
         "desc": [
@@ -16350,7 +16350,7 @@
         "subclasses": [],
         "url": "/api/spells/gate"
     },
-    "Imprisonment": {
+    "imprisonment": {
         "index": "imprisonment",
         "name": "Imprisonment",
         "desc": [
@@ -16411,7 +16411,7 @@
         "subclasses": [],
         "url": "/api/spells/imprisonment"
     },
-    "Mass Heal": {
+    "mass-heal": {
         "index": "mass-heal",
         "name": "Mass Heal",
         "desc": [
@@ -16445,7 +16445,7 @@
         "subclasses": [],
         "url": "/api/spells/mass-heal"
     },
-    "Meteor Swarm": {
+    "meteor-swarm": {
         "index": "meteor-swarm",
         "name": "Meteor Swarm",
         "desc": [
@@ -16504,7 +16504,7 @@
         "subclasses": [],
         "url": "/api/spells/meteor-swarm"
     },
-    "Power Word Kill": {
+    "power-word-kill": {
         "index": "power-word-kill",
         "name": "Power Word Kill",
         "desc": [
@@ -16549,7 +16549,7 @@
         "subclasses": [],
         "url": "/api/spells/power-word-kill"
     },
-    "Prismatic Wall": {
+    "prismatic-wall": {
         "index": "prismatic-wall",
         "name": "Prismatic Wall",
         "desc": [
@@ -16595,7 +16595,7 @@
         "subclasses": [],
         "url": "/api/spells/prismatic-wall"
     },
-    "Shapechange": {
+    "shapechange": {
         "index": "shapechange",
         "name": "Shapechange",
         "desc": [
@@ -16638,7 +16638,7 @@
         "subclasses": [],
         "url": "/api/spells/shapechange"
     },
-    "Storm of Vengeance": {
+    "storm-of-vengeance": {
         "index": "storm-of-vengeance",
         "name": "Storm of Vengeance",
         "desc": [
@@ -16697,7 +16697,7 @@
         "subclasses": [],
         "url": "/api/spells/storm-of-vengeance"
     },
-    "Time Stop": {
+    "time-stop": {
         "index": "time-stop",
         "name": "Time Stop",
         "desc": [
@@ -16733,7 +16733,7 @@
         "subclasses": [],
         "url": "/api/spells/time-stop"
     },
-    "True Polymorph": {
+    "true-polymorph": {
         "index": "true-polymorph",
         "name": "True Polymorph",
         "desc": [
@@ -16784,7 +16784,7 @@
         "subclasses": [],
         "url": "/api/spells/true-polymorph"
     },
-    "True Resurrection": {
+    "true-resurrection": {
         "index": "true-resurrection",
         "name": "True Resurrection",
         "desc": [
@@ -16824,7 +16824,7 @@
         "subclasses": [],
         "url": "/api/spells/true-resurrection"
     },
-    "Weird": {
+    "weird": {
         "index": "weird",
         "name": "Weird",
         "desc": [
@@ -16867,7 +16867,7 @@
         "subclasses": [],
         "url": "/api/spells/weird"
     },
-    "Wish": {
+    "wish": {
         "index": "wish",
         "name": "Wish",
         "desc": [
